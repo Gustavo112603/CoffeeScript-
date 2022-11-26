@@ -1,3 +1,3 @@
 # CoffeeScript-
 
-![](https://content22.wowmodels.com/wg/A/build/media/svg/pink-crown-f30886bb9a.svg)
+![](https://content22.wowmodels.com/wg/A/build/media/svg/yellow-clock-c34f61304d.svg)
